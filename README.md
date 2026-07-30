@@ -1,1 +1,1 @@
-➡️ **[Read the documentation (PDF)](Latex/555 Timer IC.pdf)**
+➡️ **[Read the documentation (PDF)](Latex/555_Time_IC.pdf)**
